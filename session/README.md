@@ -1,1 +1,1 @@
-*Upload your creds.json file here*
+    "SESSION_ID": {XPLOADER-BOT:~XuJHmAKb#aQ1C4udBr1DKCKPfHSEKGOWL_XkachkFkshRKzXQI_E}
